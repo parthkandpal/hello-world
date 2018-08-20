@@ -1,2 +1,5 @@
 # hello-world
-Starting with GitHub
+Hi there!
+Starting with GitHub!
+will keep developing Python Apps.
+Stay Tuned!
